@@ -1,0 +1,13 @@
+打開CMD後分別輸入這三行
+
+第一行：cd (資料夾路徑)
+第二行：(硬碟槽)
+第三行：realesrgan-ncnn-vulkan.exe -i (檔名) -o output.png
+P.S.請注意圖片要放在資料夾裡面
+
+範例：
+第一行：cd D:\教學\提高畫質\realesrgan-ncnn-vulkan-20220424-windows
+第二行：D:
+第三行：realesrgan-ncnn-vulkan.exe -i komi.png -o output.png
+
+原網址：https://github.com/xinntao/Real-ESRGAN/blob/master/README_CN.md
